@@ -1,6 +1,5 @@
-package ru.yurch.advent.part1;
+package ru.yurch.advent.day1;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.util.*;

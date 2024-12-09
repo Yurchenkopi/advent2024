@@ -1,4 +1,4 @@
-package ru.yurch.advent.part1;
+package ru.yurch.advent.day1;
 
 import org.junit.jupiter.api.Test;
 
